@@ -1,0 +1,9 @@
+C:\Users\gustavo\Documents\quarkus-ms-kafka\cotacao\cotacao\src\main\java\org\br\mineradora\client\CurrencyPriceClient.java
+C:\Users\gustavo\Documents\quarkus-ms-kafka\cotacao\cotacao\src\main\java\org\br\mineradora\dto\CurrencyPriceDTO.java
+C:\Users\gustavo\Documents\quarkus-ms-kafka\cotacao\cotacao\src\main\java\org\br\mineradora\dto\QuotationDTO.java
+C:\Users\gustavo\Documents\quarkus-ms-kafka\cotacao\cotacao\src\main\java\org\br\mineradora\dto\USDBRL.java
+C:\Users\gustavo\Documents\quarkus-ms-kafka\cotacao\cotacao\src\main\java\org\br\mineradora\entity\QuotationEntity.java
+C:\Users\gustavo\Documents\quarkus-ms-kafka\cotacao\cotacao\src\main\java\org\br\mineradora\message\KafkaEvents.java
+C:\Users\gustavo\Documents\quarkus-ms-kafka\cotacao\cotacao\src\main\java\org\br\mineradora\repository\QuotationRepository.java
+C:\Users\gustavo\Documents\quarkus-ms-kafka\cotacao\cotacao\src\main\java\org\br\mineradora\scheduler\QuotationScheduler.java
+C:\Users\gustavo\Documents\quarkus-ms-kafka\cotacao\cotacao\src\main\java\org\br\mineradora\service\QuotationService.java
